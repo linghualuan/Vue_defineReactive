@@ -11,7 +11,7 @@ module.exports = {
     },
     // 服务器
     devServer: {
-        port: 8089,     // 端口
+        port: 8088,     // 端口
         hot: true,  // 热更新
         open: true     // 启动自动打开浏览器
     },
